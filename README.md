@@ -4,7 +4,7 @@
 
 This is the **second end-of-module project in the Flatiron Online Data Science Course**. The project aims at testing and reinforcing the scientific computing and quantitative methods taught in phase 2 of the Flatiron School curriculum.
 
-**Deliverables** for this project are this [GitHub Repository](https://github.com/senseize/Real-Estate-Regression-Analysis), a [Jupyter Notebook](./Real-Estate-Regression-Analysis.ipynb) containing the code along with markup, as well as a [presentation](./Regression-Analysis-Presentation.pdf).
+**Deliverables** for this project are this [GitHub Repository](https://github.com/senseize/Real-Estate-Regression-Analysis), a [Jupyter Notebook](./Regression-Analysis.ipynb) containing the code along with markup, as well as a [presentation](./Regression-Analysis-Presentation.pdf).
 
 ## Business Problem
 The fictitious business problem deals with supporting a real estate agency in creating a successful marketing campaign in the King County area  (a northwestern county of the US). 
