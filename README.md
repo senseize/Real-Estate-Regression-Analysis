@@ -19,7 +19,7 @@ The data used was provided by Flatiron School and includes more than 21,000 pric
  - The best time to launch the marking campain is April/June
  - Winter months and Q1 in general should be avoided to achieve the highest median price
 
-[Boxplot_Month&Quarter](./Images/Boxplot_Month&Quarter.png)
+![Boxplot_Month&Quarter](https://github.com/senseize/Images/Boxplot_Month&Quarter.png)
 
 **Location**
  - There are clear differences in sales prices between different King County areas
