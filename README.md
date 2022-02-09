@@ -19,31 +19,31 @@ The data used was provided by Flatiron School and includes more than 21,000 pric
  - The best time to launch the marking campain is April/June
  - Winter months and Q1 in general should be avoided to achieve the highest median price
 
-[Boxplot_Month&Quarter](https://github.com/senseize/Images/Boxplot_Month&Quarter.png)
+[Boxplot_Month&Quarter](./Images/Boxplot_Month&Quarter.png)
 
 **Location**
  - There are clear differences in sales prices between different King County areas
  - To achieve the highest sales prices, the marketing efforts can be focused selectively
 
-![Zipcodes_Table](./Images/ Zipcodes_Table.png)
+![Zipcodes_Table](./Images/Zipcodes_Table.png)
 
 **Housing Attributes**
  - **Bedroom, Bathrooms and Floor count** is positively correlated with prices (Floor count however only until 2.5 floors)
 
-![Boxplot_Bedroom&Bathroom_count](./Images/ Boxplot_Bedroom&Bathroom_count.png)
-![Boxplot_Floor_count](./Images/ Boxplot_Floor_count.png)
+![Boxplot_Bedroom&Bathroom_count](./Images/Boxplot_Bedroom&Bathroom_count.png)
+![Boxplot_Floor_count](./Images/Boxplot_Floor_count.png)
 
  - **Basement availability** and **renovations** are favorable on prices
 
-![Boxplot_Base_Renov_availability](./Images/ Boxplot_Base_Renov_availability.png)
+![Boxplot_Base_Renov_availability](./Images/Boxplot_Base_Renov_availability.png)
 
  - Housing **grades from 9 upwards** and **conditions from 3 upwards** should mark the beginning of the marketing campaign’s focus
 
-![Boxplot_Grade&Condition](./Images/ Boxplot_Grade&Condition.png)
+![Boxplot_Grade&Condition](./Images/Boxplot_Grade&Condition.png)
 
 **Regression Models**
 
-![Models_Table](./Images/ Models_Table.png)
+![Models_Table](./Images/Models_Table.png)
 
 ## Contact Information
 
